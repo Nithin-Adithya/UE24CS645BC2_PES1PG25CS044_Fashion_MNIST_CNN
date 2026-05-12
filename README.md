@@ -1,4 +1,4 @@
-# CNN from Scratch — Fashion MNIST
+# CNN — Fashion MNIST
 
 > **UE24CS645BC2 | Deep Learning Theory & Practice | Assignment 1**
 
